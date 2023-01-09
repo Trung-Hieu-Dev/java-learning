@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\dangt\Documents\code\java-learning\.metadata\.plugins\org.eclipse.jdt.core
+2481366444.index
+1865797976.index
+1540582583.index
